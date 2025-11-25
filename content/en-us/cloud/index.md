@@ -1,5 +1,5 @@
 ---
-title: Cloud API reference
+title: CloudAPI
 description: Get comprehensive API reference documentation for Open Cloud.
 ---
 
